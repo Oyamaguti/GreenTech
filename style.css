@@ -168,6 +168,10 @@ body {
 
 
 /*PÁGINA 3 */
+
+#botao3 {
+  background-color: purple;
+}
 .imagem2 {
   width: 80%;
 }
